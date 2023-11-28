@@ -1,2 +1,4 @@
-﻿country_code,number,company,genre,distractions,instruments,date
-1,8009228228,AAA claims,smooth jazz ,TRUE,"saxaphone, steel drums, drums, guitar, keyboard",2023-11-18
+﻿country_code,number,company,genre,distractions,vocals,instruments,date,rating_out_of_10,length_of_recording_seconds
+1,8009228228,AAA claims,smooth jazz ,TRUE,none,"saxaphone, steel drums, drums, guitar, keyboard",2023-11-18,4,NA
+1,8009228228,AAA autoglass,finger picking country,TRUE,none,"guitar, banjo?",2023-11-18,8,NA
+1,8443753090,Belron Canada auto glass,poppy,FALSE,none,guitar?,2023-11-28,5,29
